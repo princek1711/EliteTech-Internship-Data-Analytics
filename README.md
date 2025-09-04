@@ -43,4 +43,4 @@ This project was completed as part of the **ELiteTech Intern - Data Analytics In
 ---
 
 ## 📷 Screenshot
-(`![Dashboard](Task3_PowerBI_Dashboard/PowerBI_Dashboard.png)` )
+(`!Task3_PowerBI_Dashboard/PowerBI_Dashboard.png` )
